@@ -10,7 +10,7 @@
   "discovery": ["almond"],
   "ingress": true,
   "panel_icon": "mdi:comment-eye-outline",
-  "homeassistant": "0.102.0.dev",
+  "homeassistant": "0.101.2",
   "homeassistant_api": true,
   "options": {
   },
